@@ -1,8 +1,10 @@
-# fiverr
+# Fiverr Samples
 
-Repository of example scripts for _Fiverr_.
+Repository of samples for _Fiverr_.
 
-### Web Scrapers
-- bs4_scraper.py: straight-forward web scraping using Python's `BeautifulSoup` and `requests` packages. Fetches the HTML code and parses it, filtering out points of interests.
+## Data Scrapers
 
-- selenium.py: a little more involved method of webscraping. `Selenium` is known for its ability to test web applications. Needed when a login is involved, or any interaction with some type of form. (TODO)
+## Automation
+
+Scripts can be scheduled to run automatically with either _crontab_ or _Task Scheduler_.
+
